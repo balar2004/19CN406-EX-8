@@ -33,10 +33,10 @@ while True:
  c.send(ClientMessage.encode())
  ```
 # OUTPUT:
-# CLIENT:
-
-# SERVER:
-
+# CLIENT SIDE:
+![Client-5](https://github.com/balar2004/19CN406-EX-8/assets/118791778/268a192e-4da2-432d-89d6-9e4b97e51a05)
+# SERVER SIDE:
+![Server-5](https://github.com/balar2004/19CN406-EX-8/assets/118791778/b1eb1c19-5a8b-4750-a768-2ad640c1e1d5)
 # RESULT:
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
 was successfully created and executed.
